@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: loop-btc/loop-btc.github.io
-repository_tree: loop-btc-patch-1
+repository_tree: master
 
 
 ## => Paths

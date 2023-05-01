@@ -1,10 +1,10 @@
 ---
-title: Benvenuto
+title: Benvenuto!
 tags: news
 ---
 
-Prova prima news
+Benvenuto nel mio nuovo sito...
 
 <!--more-->
 
-Continuazione della news
+...stay tuned!
