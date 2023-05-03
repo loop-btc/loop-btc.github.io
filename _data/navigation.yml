@@ -1,5 +1,5 @@
 header:
-  - titles:
+  - titles: >
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
@@ -25,7 +25,7 @@ header:
       # @end locale config
     url: /index.html
 
-  - titles:
+  - titles: >
       # @start locale config
       en      : &EN       Anil
       en-GB   : *EN
