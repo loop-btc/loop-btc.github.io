@@ -1,5 +1,5 @@
 ---
-layout: articles-item-cover-excerpt-readmore
+layout: articles
 titles:
   # @start locale config
   en      : &EN       Anil
