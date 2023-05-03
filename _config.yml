@@ -68,12 +68,6 @@ paths:
   rss     : # "/feed.xml" (default)
 
 
-## => Collections
-##############################
-collections:
-  - anil
-
-
 ## => Post
 ##############################
 ## excerpt

@@ -25,15 +25,15 @@ header:
       # @end locale config
     url: /index.html
 
-  - titles: >
+  - titles:
       # @start locale config
-      en      : &EN       About me
+      en      : &EN       Anil
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      it      : &IT       Chi sono
+      it      : &IT       Anil
       it-IT   : *IT
       it-CH   : *IT
       # @end locale config
-    url: /about.html
+    url: /anil.html
