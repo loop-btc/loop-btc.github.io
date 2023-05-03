@@ -17,7 +17,3 @@ articles:
   show_excerpt: true
   show_readmore: true
 ---
-
-![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/loop-btc-patch-1/assets/images/btc_header.jpg)
-
-{{content}}
