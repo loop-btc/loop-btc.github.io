@@ -30,7 +30,7 @@ en-CA:
 en-AU:
   <<: *EN
 
-## => French
+## => Italian
 ########################
 it: &IT
   SUBSCRIBE               : "Iscriviti"
@@ -41,8 +41,8 @@ it: &IT
   LAST_UPDATED            : "Ultima modifica"
   PREVIOUS                : "PRECEDENTE"
   NEXT                    : "SUCCESSIVO"
-  ARTICLE_DATE_FORMAT     : "%d %b, %Y"
-  ARTICLE_LIST_DATE_FORMAT: "%d %b"
+  ARTICLE_DATE_FORMAT     : "%g %m, %A"
+  ARTICLE_LIST_DATE_FORMAT: "%g %m"
   STATISTICS              : "[POST_COUNT] articoli, [PAGE_COUNT] pagine."
   LICENSE_ANNOUNCE        : "Licenza [LICENSE]."
   POST_ON_GITHUB          : "Modifica su Github"
