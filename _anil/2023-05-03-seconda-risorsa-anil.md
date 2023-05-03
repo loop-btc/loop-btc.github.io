@@ -1,5 +1,6 @@
 ---
 title: Prova 2
+type: article
 tags: beginner
 ---
 
