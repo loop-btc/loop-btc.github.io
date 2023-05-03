@@ -71,7 +71,8 @@ paths:
 ## => Collections
 ##############################
 collections:
-  - anil
+  anil:
+    output: true
 
 
 ## => Post
