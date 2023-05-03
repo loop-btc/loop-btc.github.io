@@ -1,6 +1,6 @@
 ---
 title: Prova 1
-type: article
+layout: article
 tags: beginner
 ---
 
