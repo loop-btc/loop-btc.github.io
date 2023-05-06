@@ -20,3 +20,4 @@ articles:
 
 Sto traducendo in italiano le fantastiche presentazioni di <a href="https://twitter.com/anilsaidso">@anilsaidso</a>, utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo.
 
+<!--more-->
