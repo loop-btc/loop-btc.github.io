@@ -34,7 +34,7 @@ article_header:
 </style>
 
 <div class="grid">
-  <div class="cell cell--12 cell--lg-8 content">
+  <div class="cell cell--auto p-2">
     <a href="/anil.html">
       <div class="card">
         <div class="card__image">
@@ -49,7 +49,8 @@ article_header:
       </div>
     </a>
   </div>
-  <div class="cell cell--12 cell--lg-4 content">
+  <div class="cell cell--2 p-2">
       <h3>Altre risorse in italiano</h3>
-      <p>Dato che non ha senso reinventare la ruota, ti rimando a <a href="https://ventuno.space">Ventuno.space</a>, una collezione delle migliori risorse Bitcoin in lingua italiana, curata dalla community italiana.</p></div>
+      <p>Dato che non ha senso reinventare la ruota, ti rimando a <a href="https://ventuno.space">Ventuno.space</a>, una collezione delle migliori risorse Bitcoin in lingua italiana, curata dalla community italiana.</p>
+  </div>
 </div>
