@@ -25,7 +25,7 @@ header:
       # @end locale config
     url: /index.html
 
-  - titles: >
+  - titles:
       # @start locale config
       en      : &EN       Resources
       en-GB   : *EN
