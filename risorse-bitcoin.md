@@ -2,17 +2,19 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Resources
+  en      : &EN       Bitcoin Resources
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  it      : &IT       Risorse
+  it      : &IT       Risorse Bitcoin
   it-IT   : *IT
   it-CH   : *IT
   # @end locale config
 key: page-resources
-show_excerpt: true
+cover: /assets/images/btc_header.jpg
+header:
+  theme: dark
 article_header:
   type: overlay
   theme: dark
