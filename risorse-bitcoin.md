@@ -49,7 +49,7 @@ article_header:
       </div>
     </a>
   </div>
-  <div class="cell cell--2 p-2; margin-left: ($spacer * 6);">
+  <div class="cell cell--3 p-2;">
       <h4>Altre risorse</h4>
       <p>Dato che non ha senso reinventare la ruota, ti rimando a <a href="https://ventuno.space">Ventuno.space</a>, una collezione delle migliori risorse Bitcoin in lingua italiana, curata dalla community italiana.</p>
   </div>
