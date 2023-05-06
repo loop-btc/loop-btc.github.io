@@ -44,13 +44,13 @@ article_header:
           <div class="card__header">
             <h4>Anil</h4>
           </div>
-          <p>Le fantastiche presentazioni di @anilsaidso utili per iniziare a (far) conoscere Bitcoin o approfondirne vari aspetti, avvalendosi di slide efficaci e di grande impatto visivo.</p>
+          <p>Sto traducendo in italiano le fantastiche presentazioni di @anilsaidso utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo.</p>
         </div>
       </div>
     </a>
   </div>
   <div class="cell cell--3 p-2;">
       <h4>Altre risorse</h4>
-      <p>Dato che non ha senso reinventare la ruota, ti rimando a <a href="https://ventuno.space">Ventuno.space</a>, una collezione delle migliori risorse Bitcoin in lingua italiana, curata dalla community italiana.</p>
+      <p>Dato che non ha senso reinventare tutte le volte la ruota, ti rimando a <a href="https://ventuno.space">Ventuno.space</a>, una collezione delle migliori risorse Bitcoin in lingua italiana, curata dalla community italiana.</p>
   </div>
 </div>
