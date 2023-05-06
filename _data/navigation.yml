@@ -27,13 +27,13 @@ header:
 
   - titles: >
       # @start locale config
-      en      : &EN       Anil
+      en      : &EN       Resources
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      it      : &IT       Anil
+      it      : &IT       Risorse
       it-IT   : *IT
       it-CH   : *IT
       # @end locale config
-    url: /anil.html
+    url: /risorse-bitcoin.html
