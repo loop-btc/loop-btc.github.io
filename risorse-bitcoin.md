@@ -23,12 +23,18 @@ article_header:
     src: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/btc_header.jpg
 ---
 
-Risorse Bitcoin in italiano (tradotte da me) e link alle raccolte più esausive curate dalla community italiana Bitcoin.
+
 
 <!--more-->
 
+<style>
+  .card__content {
+    background-color: #202020;
+  }
+</style>
+
 <div class="grid">
-  <div class="cell cell--12 cell--lg-6 content">
+  <div class="cell cell--12 cell--lg-8 content">
     <a href="/anil.html">
       <div class="card">
         <div class="card__image">
@@ -38,11 +44,12 @@ Risorse Bitcoin in italiano (tradotte da me) e link alle raccolte più esausive 
           <div class="card__header">
             <h4>Anil</h4>
           </div>
-          <p>Una serie di presentazioni di @anilsaidso, tradotte in italiano da me, per iniziare a conoscere o approfondire vari aspetti relativi a Bitcoin, avvalendoti di slide efficaci e di grande impatto.</p>
+          <p>Le fantastiche presentazioni di <a href="twitter.com/anilsaidso">@anilsaidso</a> utili per iniziare a (far) conoscere Bitcoin o approfondirne vari aspetti, avvalendosi di slide efficaci e di grande impatto visivo.</p>
         </div>
       </div>
     </a>
   </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-2 content"></div>
-  <div class="cell cell--12 cell--md-8 cell--lg-4 content">(link a ventuno.space)</div>
+  <div class="cell cell--12 cell--lg-4 content">
+      <h3>Altre risorse in italiano</h3>
+      <p>Dato che non ha senso reinventare la ruota, ti rimando a <a href="https://ventuno.space">Ventuno.space</a>, una collezione delle migliori risorse Bitcoin in lingua italiana, curata dalla community italiana.</p></div>
 </div>
