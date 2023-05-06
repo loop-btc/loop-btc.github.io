@@ -12,13 +12,13 @@ titles:
   it-CH   : *IT
   # @end locale config
 key: page-resources
+show_excerpt: true
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
     src: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/btc_header.jpg
-
 ---
 
 Risorse Bitcoin in italiano (tradotte da me) e link alle raccolte più esausive curate dalla community italiana Bitcoin.
