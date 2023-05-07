@@ -12,9 +12,8 @@ titles:
   it-CH   : *IT
   # @end locale config
 key: page-updates
-show_title: false
 articles:
-  data_source: site.anil
+  data_source: paginator.posts
   show_excerpt: true
   show_readmore: true
 ---
