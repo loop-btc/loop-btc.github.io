@@ -74,6 +74,7 @@ paths:
 collections:
   anil:
     output: true
+    permalink: /:collection/:title
 
 
 ## => Post
