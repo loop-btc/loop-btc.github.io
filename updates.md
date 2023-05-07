@@ -25,3 +25,5 @@ articles:
 <script>
   {%- include scripts/home.js -%}
 </script>
+
+{{content}}
