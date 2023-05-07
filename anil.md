@@ -25,7 +25,6 @@ articles:
   .hero-loop--linear-gradient {
     background-image: linear-gradient(135deg, rgba(0, 0, 0, .9), rgba(255, 255, 255, 0)), url("https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg");
   }
-  h2.item__header { margin: 0; }
 </style>
 
 <div class="hero hero--dark hero-loop--linear-gradient my-4">
