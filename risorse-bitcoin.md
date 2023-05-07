@@ -13,14 +13,8 @@ titles:
   # @end locale config
 key: page-resources
 cover: /assets/images/btc_header.jpg
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    src: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/btc_header.jpg
+show_title: false
+
 ---
 
 
@@ -28,10 +22,19 @@ article_header:
 <!--more-->
 
 <style>
+  .hero-loop--linear-gradient {
+    background-image: linear-gradient(135deg, rgba(0, 0, 0, .9), rgba(255, 255, 255, 0)), url("https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/btc_header.jpg");
+  }
   .card__content {
     background-color: #202020;
   }
 </style>
+
+<div class="hero hero--dark hero-loop--linear-gradient">
+  <div class="hero__content">
+    <h3>Risorse Bitcoin</h3>
+  </div>
+</div>
 
 <div class="grid">
   <div class="cell cell--12 cell--lg-9 content p-2">
@@ -44,7 +47,7 @@ article_header:
           <div class="card__header">
             <h4>Anil</h4>
           </div>
-          <p>Sto traducendo in italiano le fantastiche presentazioni di @anilsaidso utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo.</p>
+          <p>Sto traducendo in italiano le ottime presentazioni di @anilsaidso utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo.</p>
         </div>
       </div>
     </a>
