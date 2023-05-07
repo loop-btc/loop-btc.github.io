@@ -27,6 +27,13 @@
       </a>
     {%- endif -%}
 
+    {%- if _author.alby -%}
+      <li title="{{ _locale_string_donate | replace: '[NAME]', 'Alby' }}">
+        <a class="button button--circle alby-button" itemprop="sameAs" href="https://getalby.com/p/{{ _author.alby }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/alby.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
 
     {%- if _author.facebook -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
