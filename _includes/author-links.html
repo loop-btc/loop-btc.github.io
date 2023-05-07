@@ -12,11 +12,15 @@
       {%- assign _locale_string_email = __return -%}
       {%- include snippets/get-locale-string.html key='FOLLOW_US' -%}
       {%- assign _locale_string_follow = __return -%}
+      {%- include snippets/get-locale-string.html key='DONATE' -%}
+      {%- assign _locale_string_donate = __return -%}
     {%- else -%}
       {%- include snippets/get-locale-string.html key='EMAIL_ME' -%}
       {%- assign _locale_string_email = __return -%}
       {%- include snippets/get-locale-string.html key='FOLLOW_ME' -%}
       {%- assign _locale_string_follow = __return -%}
+      {%- include snippets/get-locale-string.html key='DONATE' -%}
+      {%- assign _locale_string_donate = __return -%}
     {%- endif -%}
 
     {%- include snippets/get-locale-string.html key='EMAIL_ME' -%}
