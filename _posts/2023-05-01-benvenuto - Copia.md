@@ -1,6 +1,6 @@
 ---
 title: Benvenuto!
-tags: news
+tags: risorse
 ---
 
 Benvenuto nel mio nuovo sito.
