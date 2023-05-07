@@ -17,15 +17,9 @@ articles:
   data_source: site.anil
   show_excerpt: true
   show_readmore: true
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    src: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg
 ---
+
+![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg)
 
 Sto traducendo in italiano le fantastiche presentazioni di <a href="https://twitter.com/anilsaidso">@anilsaidso</a>, utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo.
 
