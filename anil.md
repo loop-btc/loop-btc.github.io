@@ -20,7 +20,13 @@ articles:
   show_readmore: true
 ---
 
-<div class="hero hero--dark" style='background-image: url("https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg");'>
+<style>
+  .hero-loop--linear-gradient {
+    background-image: linear-gradient(90deg, rgba(32, 32, 32, .66), rgba(255, 255, 255, 0)), url("https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg");
+  }
+</style>
+
+<div class="hero hero--center hero--dark hero-loop--linear-gradient">
   <div class="hero__content">
     <h3>Anil</h3>
   </div>
