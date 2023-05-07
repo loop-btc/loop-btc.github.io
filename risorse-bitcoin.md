@@ -34,7 +34,7 @@ show_title: false
 
 <div class="grid">
   <div class="cell cell--12 cell--lg-9 content p-2">
-    <a href="/anil.html">
+    <a style="text-decoration:none" href="/anil.html">
       <div class="card">
         <div class="card__image">
           <img class="image" src="https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/card-anil.jpg"/>
