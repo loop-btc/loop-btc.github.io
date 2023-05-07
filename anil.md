@@ -26,7 +26,7 @@ articles:
   }
 </style>
 
-<div class="hero hero--dark hero-loop--linear-gradient mb-4">
+<div class="hero hero--dark hero-loop--linear-gradient my-4">
   <div class="hero__content">
     <h3>Anil</h3>
   </div>
