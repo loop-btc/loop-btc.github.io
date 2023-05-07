@@ -13,7 +13,7 @@ titles:
   # @end locale config
 key: page-updates
 articles:
-  data_source: paginator.posts
+  data_source: site.posts
   show_excerpt: true
   show_readmore: true
 ---
