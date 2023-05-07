@@ -11,4 +11,9 @@ titles:
   it-IT   : *IT
   it-CH   : *IT
   # @end locale config
+key: page-updates
+show_title: false
+articles:
+  show_excerpt: true
+  show_readmore: true
 ---
