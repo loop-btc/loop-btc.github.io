@@ -4,8 +4,11 @@ layout: article
 cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-evoluzione-del-denaro.jpg
 ---
 
-L'evoluzione del denaro
+ La storia del denaro, dalle conchiglie di cowry fino a Bitcoin e alle CBDC (Central Bank Digital Currencies) esplorando le ragioni alla base di ogni principale transizione.
 
 <!--more-->
 
-risorsa in caricamento
+![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-evoluzione-del-denaro.jpg)
+
+
+<a class="button button--warning button--rounded button--lg" href="/assets/risorse/L'evoluzione del denaro_by Anil - ITA by loop_btc.pdf"><i class="fas fa-download"></i> Apri la presentazione</a>

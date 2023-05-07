@@ -4,8 +4,11 @@ layout: article
 cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-terminologia-bitcoin.jpg
 ---
 
-Terminologia Bitcoin
+Le definizioni essenziali di tutti i principali concetti, per districarsi nel complesso lessico di Bitcoin, Lightning Network e NOSTR.
 
 <!--more-->
 
-risorsa in caricamento
+![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-terminologia-bitcoin.jpg)
+
+
+<a class="button button--warning button--rounded button--lg" href="/assets/risorse/Terminologia Bitcoin_by Anil - ITA by loop_btc.pdf"><i class="fas fa-download"></i> Apri la presentazione</a>
