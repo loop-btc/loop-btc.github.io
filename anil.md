@@ -18,6 +18,7 @@ articles:
   data_source: site.anil
   show_excerpt: true
   show_readmore: true
+  cover_size: lg
 ---
 
 <style>

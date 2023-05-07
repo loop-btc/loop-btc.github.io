@@ -34,7 +34,7 @@ en-AU:
 ########################
 it: &IT
   SUBSCRIBE               : "Iscriviti"
-  READMORE                : "Continua"
+  READMORE                : "Continua..."
   SEARCH                  : "Ricerca"
   CANCEL                  : "Annulla"
   VIEWS                   : "visualizzazioni"
