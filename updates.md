@@ -11,6 +11,7 @@ titles:
   it-IT   : *IT
   it-CH   : *IT
   # @end locale config
+show_title: false
 articles:
   data_source: paginator.posts
   article_type: BlogPosting
@@ -27,4 +28,3 @@ articles:
 </script>
 
 {{ content }}
-  
