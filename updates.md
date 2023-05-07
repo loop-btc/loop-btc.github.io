@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: articles
 titles:
   # @start locale config
   en      : &EN       Updates
@@ -11,7 +11,6 @@ titles:
   it-IT   : *IT
   it-CH   : *IT
   # @end locale config
-key: page-updates
 articles:
   data_source: paginator.posts
   article_type: BlogPosting
