@@ -13,13 +13,18 @@ titles:
   # @end locale config
 key: page-anil
 cover: /assets/images/header-anil.jpg
+show_title: false
 articles:
   data_source: site.anil
   show_excerpt: true
   show_readmore: true
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg)
+<div class="hero hero--dark" style='background-image: url("https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/header-anil.jpg");'>
+  <div class="hero__content">
+    <h3>Anil</h3>
+  </div>
+</div>
 
 Sto traducendo in italiano le fantastiche presentazioni di <a href="https://twitter.com/anilsaidso">@anilsaidso</a>, utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo.
 
