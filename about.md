@@ -14,6 +14,4 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/btc_header.jpg)
-
 Pagina in costruzione...

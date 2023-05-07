@@ -1,17 +1,4 @@
 header:
-  - titles: >
-      # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      it      : &IT       Archivi
-      it-IT   : *IT
-      it-CH   : *IT
-      # @end locale config
-    url: /archive.html
-
   - titles:
       # @start locale config
       en      : &EN       Home
@@ -37,3 +24,16 @@ header:
       it-CH   : *IT
       # @end locale config
     url: /updates.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Donate
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      it      : &IT       Dona
+      it-IT   : *IT
+      it-CH   : *IT
+      # @end locale config
+    url: https://getalby.com/p/loop
