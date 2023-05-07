@@ -40,6 +40,7 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : un plebeo Bitcoin-only
   email     : loop_btc@tuta.io
+  alby      : loop
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : loop_btc # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...

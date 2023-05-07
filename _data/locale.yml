@@ -51,7 +51,7 @@ it: &IT
   EMAIL_ME                : "Scrivimi una mail"
   EMAIL_US                : "Scriveteci una mail"
   COPYRIGHT_DATES         : "2023"
-  DONATE                  : "Fai una donazione a [NAME]"
+  DONATE                  : "Dona sats a [NAME]"
 
 it-IT:
   <<: *IT
