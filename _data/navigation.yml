@@ -10,7 +10,7 @@ header:
       it-IT   : *IT
       it-CH   : *IT
       # @end locale config
-    url: /index.html
+    url: /
 
   - titles:
       # @start locale config
@@ -23,7 +23,7 @@ header:
       it-IT   : *IT
       it-CH   : *IT
       # @end locale config
-    url: /updates.html
+    url: /updates/
 
   - titles:
       # @start locale config

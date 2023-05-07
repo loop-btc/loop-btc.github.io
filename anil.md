@@ -12,6 +12,7 @@ titles:
   it-CH   : *IT
   # @end locale config
 key: page-anil
+permalink: /anil/
 cover: /assets/images/header-anil.jpg
 show_title: false
 articles:
