@@ -33,5 +33,3 @@ articles:
 </div>
 
 Sto traducendo le ottime presentazioni di <a href="https://twitter.com/anilsaidso">@anilsaidso</a>, utili per iniziare a (far) conoscere o approfondire Bitcoin avvalendosi di slide chiare e di grande impatto visivo. Puoi scaricarle e utilizzarle come preferisci ma ricordati di riconoscere una menzione di paternità adeguata all'autore e a me e di rispettare i termini della <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.it">licenza CC BY-SA 4.0</a>.
-
-<!--more-->
