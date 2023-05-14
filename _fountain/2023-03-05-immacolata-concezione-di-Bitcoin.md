@@ -9,7 +9,8 @@ La scoperta e l\'immacolata concezione di Bitcoin secondo
 
 <!--more-->
 
-![TeXt Theme](https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-fountain-priorato-bitcoin.jpg)
-
-
-<p style="text-align: center;"><a class="button button--warning button--rounded button--lg" href="https://fountain.fm/clip/qam80CpV1ANSyuuShnNL" target="_blank"><i class="fas fa-volume-up"></i> Ascolta la clip</a></p>
+<p style="text-align: center;">
+	<img class="image image--md" src="https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-fountain-priorato-bitcoin.jpg"/><br>
+	<br>
+	<a class="button button--warning button--rounded button--lg" href="https://fountain.fm/clip/qam80CpV1ANSyuuShnNL" target="_blank"><i class="fas fa-volume-up"></i> Ascolta la clip</a>
+</p>
