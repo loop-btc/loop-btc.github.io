@@ -10,6 +10,7 @@ articles:
   show_excerpt: true
   show_readmore: true
   cover_size: md
+excerpt: Piccole perle tratte da vari podcast a tema Bitcoin, create con Fountain, l'app di ascolto e podcasting in linea con la filosofia Value for Value.
 ---
 
 <style>

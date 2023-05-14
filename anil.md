@@ -10,6 +10,7 @@ articles:
   show_excerpt: true
   show_readmore: true
   cover_size: lg
+excerpt: Le presentazioni di Anil sono utili per iniziare a (far) conoscere o approfondire Bitcoin con slide chiare e di grande impatto visivo.
 ---
 
 <style>
