@@ -1,5 +1,5 @@
 ---
-title: Bitcoin, casi d\'uso
+title: Bitcoin, casi d'uso
 layout: article
 cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-casi-d-uso.jpg
 ---
