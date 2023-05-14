@@ -1,12 +1,12 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Home
+      en      : &EN       Resources
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      it      : &IT       Home
+      it      : &IT       Risorse
       it-IT   : *IT
       it-CH   : *IT
       # @end locale config
