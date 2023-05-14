@@ -10,7 +10,7 @@ articles:
   show_excerpt: true
   show_readmore: true
   cover_size: md
-excerpt: Piccole perle tratte da vari podcast a tema Bitcoin, create con Fountain, l'app di ascolto e podcasting in linea con la filosofia Value for Value.
+excerpt: Pillole arancioni tratte da vari podcast a tema Bitcoin, create con Fountain, l'app di ascolto e podcasting in linea con la filosofia Value for Value.
 ---
 
 <style>
@@ -25,4 +25,4 @@ excerpt: Piccole perle tratte da vari podcast a tema Bitcoin, create con Fountai
   </div>
 </div>
 
-Una collezione di piccole perle tratte da vari podcast a tema Bitcoin che ascolto su <a href="https://fountain.fm/loop_btc?code=ee3ca7d1c1" target="_blank">Fountain</a>, la piattaforma di podcasting in linea con la filosofia <a href="https://dergigi.com/value/" target="_blank">Value for Value</a>.
+Una collezione di pillole arancioni tratte da vari podcast a tema Bitcoin che ascolto su <a href="https://fountain.fm/loop_btc?code=ee3ca7d1c1" target="_blank">Fountain</a>, la piattaforma di podcasting in linea con la filosofia <a href="https://dergigi.com/value/" target="_blank">Value for Value</a>.
