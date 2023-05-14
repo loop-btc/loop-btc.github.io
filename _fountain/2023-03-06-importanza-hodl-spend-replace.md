@@ -1,7 +1,7 @@
 ---
 title: L'importanza dell'Hodl, Spend & Replace secondo Rikki e Laura
 layout: article
-cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-fountain-arancione-podcast.jpg
+cover: /assets/images/cover-fountain-arancione-podcast.jpg
 ---
 
 <a href="https://twitter.com/Rikki6ixx">@Rikki6ixx</a> e <a href="https://twitter.com/Lorinaura">@Lorinaura</a> spiegano perché, oltre che accumularli, i satoshi vanno anche spesi (e rimpiazzati).

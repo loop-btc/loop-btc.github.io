@@ -1,7 +1,7 @@
 ---
 title: Falsità su Bitcoin
 layout: article
-cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-falsita.jpg
+cover: /assets/images/cover-anil-falsita.jpg
 ---
 
 25 slide per smontare gli attacchi FUD contro Bitcoin. Contiene le risposte ai pregiudizi più comuni frequentemente rivolti ai bitcoiners.

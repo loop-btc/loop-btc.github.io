@@ -1,7 +1,7 @@
 ---
 title: L'immacolata concezione di Bitcoin
 layout: article
-cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-fountain-priorato-bitcoin.jpg
+cover: /assets/images/cover-fountain-priorato-bitcoin.jpg
 ---
 
 La scoperta e l\'immacolata concezione di Bitcoin secondo 
