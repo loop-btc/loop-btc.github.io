@@ -1,16 +1,6 @@
 ---
 layout: articles
-titles:
-  # @start locale config
-  en      : &EN       Anil
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  it      : &IT       Anil
-  it-IT   : *IT
-  it-CH   : *IT
-  # @end locale config
+title: Anil
 key: page-anil
 permalink: /anil/
 cover: /assets/images/header-anil.jpg

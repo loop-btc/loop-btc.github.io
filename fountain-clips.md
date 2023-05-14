@@ -1,16 +1,6 @@
 ---
 layout: articles
-titles:
-  # @start locale config
-  en      : &EN       Fountain clips
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  it      : &IT       Fountain clips
-  it-IT   : *IT
-  it-CH   : *IT
-  # @end locale config
+title: Fountain clips
 key: page-fountain-clips
 permalink: /fountain-clips/
 cover: /assets/images/header-fountain.jpg
