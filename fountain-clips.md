@@ -11,8 +11,8 @@ titles:
   it-IT   : *IT
   it-CH   : *IT
   # @end locale config
-key: page-anil
-permalink: /anil/
+key: page-fountain-clips
+permalink: /fountain-clips/
 cover: /assets/images/header-fountain.jpg
 show_title: false
 articles:
