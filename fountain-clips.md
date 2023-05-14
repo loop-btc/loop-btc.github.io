@@ -19,7 +19,7 @@ articles:
   data_source: site.fountain
   show_excerpt: true
   show_readmore: true
-  cover_size: lg
+  cover_size: md
 ---
 
 <style>
