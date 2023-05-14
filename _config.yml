@@ -75,6 +75,9 @@ collections:
   anil:
     output: true
     permalink: /:collection/:title
+  fountain:
+    output: true
+    permalink: /:collection/:title
 
 
 ## => Post
