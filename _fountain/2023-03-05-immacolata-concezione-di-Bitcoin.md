@@ -13,7 +13,7 @@ La scoperta e l\'immacolata concezione di Bitcoin secondo
 	<a href="https://priorato.org" target="_blank"><img class="image image--md" src="https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-fountain-priorato-bitcoin.jpg"/></a><br>
 	<i class="fas fa-link"></i> <a href="https://priorato.org" target="_blank">priorato.org</a>
 </p>
-<p style="text-align: center;">
+<p style="text-align: center;" class="py-4">
 	<audio controls>
 		<source src="/assets/audio/fountain-clip_priorato-del-bitcoin_immacolata-concezione.mp3" type="audio/mpeg">
 		<source src="/assets/audio/fountain-clip_priorato-del-bitcoin_immacolata-concezione.ogg" type="audio/ogg">

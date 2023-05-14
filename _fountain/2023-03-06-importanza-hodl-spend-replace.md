@@ -11,7 +11,7 @@ cover: /assets/images/cover-fountain-arancione-podcast.jpg
 <p style="text-align: center;">
 	<a href="https://fountain.fm/show/412K3pgOYcSg6kPdaVKt" target="_blank"><img class="image image--md" src="https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-fountain-arancione-podcast.jpg"/></a>
 </p>
-<p style="text-align: center;">
+<p style="text-align: center;" class="py-4">
 	<audio controls>
 		<source src="/assets/audio/fountain-clip_arancione-podcast_hodl-spend-replace.mp3" type="audio/mpeg">
 		<source src="/assets/audio/fountain-clip_arancione-podcast_hodl-spend-replace.ogg" type="audio/ogg">
