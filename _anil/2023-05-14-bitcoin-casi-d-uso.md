@@ -1,9 +1,10 @@
 ---
 title: Bitcoin, casi d'uso
 layout: article
-cover: https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/cover-anil-casi-d-uso.jpg
-excerpt: Una guida per comprendere le molteplici forme di utilizzo di Bitcoin e per considerare tutti i settori, i sistemi e gli asset che potrebbero essere in qualche modo scardinati da Bitcoin.
+cover: /assets/images/cover-anil-casi-d-uso.jpg
 ---
+
+Una guida per comprendere le molteplici forme di utilizzo di Bitcoin e per considerare tutti i settori, i sistemi e gli asset che potrebbero essere in qualche modo scardinati da Bitcoin.
 
 <!--more-->
 
