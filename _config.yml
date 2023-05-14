@@ -27,6 +27,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
+locale: it_IT # locale used by Open Graph
 lang: it # the language of your site, default as "en"
 timezone: IT # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
@@ -37,7 +38,7 @@ author:
   type      : # "person" (default), "organization"
   name      : loop_btc
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://raw.githubusercontent.com/loop-btc/loop-btc.github.io/master/assets/images/satoshi_400x400.jpg # path or url of avatar image (square)
   bio       : un plebeo Bitcoin-only
   email     : loop_btc@tuta.io
   alby      : loop
@@ -75,6 +76,7 @@ collections:
   anil:
     output: true
     permalink: /:collection/:title
+    show_excerpt: true
   fountain:
     output: true
     permalink: /:collection/:title
