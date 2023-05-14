@@ -16,8 +16,9 @@ cover: /assets/images/cover-fountain-arancione-podcast.jpg
 		<source src="/assets/audio/fountain-clip_arancione-podcast_hodl-spend-replace.mp3" type="audio/mpeg">
 		<source src="/assets/audio/fountain-clip_arancione-podcast_hodl-spend-replace.ogg" type="audio/ogg">
 		Il tuo browser non supporta la riproduzione della clip.
-	</audio>
-</p>
+	</audio><br><br>Tratto da:<br>
+	<i class="fas fa-headphones"> <a href="https://fountain.fm/episode/13353047039" target="_blank">ChiacchieraArancione-BitcoinExplorers:<br>Divulgazione a livello mondiale, Hodl Spend and Replace<br> e un esempio che dovremmo seguire anche in ITALIA.</a>
+</i></p>
 <p style="text-align: center;">
-	<a class="button button--warning button--rounded button--lg" href="https://fountain.fm/loop_btc?code=ee3ca7d1c1" target="_blank"><i class="fas fa-volume-up"></i> Seguimi su Fountain</a>
+	<a class="button button--warning button--rounded button--lg" href="https://fountain.fm/loop_btc?code=ee3ca7d1c1" target="_blank"><i class="fas fa-podcast"></i> Seguimi su Fountain</a>
 </p>
